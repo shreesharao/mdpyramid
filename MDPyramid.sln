@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MDPyramid", "MdPyramid\MDPyramid.csproj", "{08281FA7-459C-452E-9570-6E996D59AC1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MDPyramid.Tests", "MDPyramid.Tests\MDPyramid.Tests.csproj", "{B436E707-1F53-4E6B-84CB-110B95AF0169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08281FA7-459C-452E-9570-6E996D59AC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08281FA7-459C-452E-9570-6E996D59AC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08281FA7-459C-452E-9570-6E996D59AC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08281FA7-459C-452E-9570-6E996D59AC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B436E707-1F53-4E6B-84CB-110B95AF0169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B436E707-1F53-4E6B-84CB-110B95AF0169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B436E707-1F53-4E6B-84CB-110B95AF0169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B436E707-1F53-4E6B-84CB-110B95AF0169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA5C177-1AEE-425B-B90E-7249EF25A365}
+	EndGlobalSection
+EndGlobal
